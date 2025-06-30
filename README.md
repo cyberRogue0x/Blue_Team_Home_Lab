@@ -1,7 +1,7 @@
 # Blue_Team_Home_Lab
 # 🔐 Blue Team Cybersecurity Home Lab
 
-A hands-on home lab project focused on defensive cybersecurity skills: Vulnerability assessment and report.
+A hands-on home lab project focused on defensive cybersecurity skills: Vulnerability assessment, log analysis
 
 ## 🧰 Tools Used
 - VirtualBox
@@ -10,15 +10,18 @@ A hands-on home lab project focused on defensive cybersecurity skills: Vulnerabi
 - Nessus
 - Metasploitable
 - Microsoft Excel
+- Maltego
+- Wireshark
+- Nmap
+- Splunk Enterprise
 
 ## 🧱 Lab Setup
 - Host-only virtual network
-- Logging enabled on all VMs
-- Centralized scanning on all systems on the network
+- Logging is enabled on all VMs
 
 ## 📈 Skills Gained
-- Vulnersbility assessment
-- Generating report
+- Vulnerability assessment
+- Log analysis
 
 ## 📸 Screenshots
 ![Event Viewer detection] 
