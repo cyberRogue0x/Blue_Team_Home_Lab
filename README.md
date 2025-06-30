@@ -16,9 +16,6 @@ A hands-on home lab project focused on defensive cybersecurity skills: Vulnerabi
 - Logging enabled on all VMs
 - Centralized scanning on all systems on the network
 
-## 🔍 Detection Scenarios
-- Failed login attempts (Windows)
-
 ## 📈 Skills Gained
 - Vulnersbility assessment
 - Generating report
