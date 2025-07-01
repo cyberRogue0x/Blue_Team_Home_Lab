@@ -1,7 +1,7 @@
 # Blue_Team_Home_Lab
 # 🔐 Blue Team Cybersecurity Home Lab
 
-A hands-on home lab project focused on defensive cybersecurity skills: Vulnerability assessment, log analysis
+A hands-on home lab project focused on defensive cybersecurity skills.
 
 ## 🧰 Tools Used
 - VirtualBox
