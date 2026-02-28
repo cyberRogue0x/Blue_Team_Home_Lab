@@ -4,24 +4,14 @@
 A hands-on home lab project focused on defensive cybersecurity skills.
 
 ## 🧰 Tools Used
-- VirtualBox
-- Windows 10 / Server 2019
-- Kali Linux
-- Nessus
-- Metasploitable
-- Microsoft Excel
-- Maltego
-- Wireshark
-- Nmap
-- Splunk Enterprise
+- MITRE ATT&CK
 
 ## 🧱 Lab Setup
 - Host-only virtual network
 - Logging is enabled on all VMs
 
 ## 📈 Skills Gained
-- Vulnerability assessment
-- Log analysis
+- Identifying alerts based on MITRE ATT&CK
 
 ## 📸 Screenshots
 ![Event Viewer detection] 
