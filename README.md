@@ -4,11 +4,11 @@
 A hands-on home lab project focused on defensive cybersecurity skills.
 
 ## 🧰 Tools Used
--VmWare Workstation
+-VMware Workstation
 -Kali Linux
 -Windows
--Splunk Entreprise
+-Splunk Enterprise
 
 
 ## 📈 Skills Gained
-- Identifying alerts based on MITRE ATT&CK
+- Log Analysis
