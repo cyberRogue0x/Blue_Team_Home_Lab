@@ -1,5 +1,5 @@
 # Blue_Team_Home_Lab
-# 🔐 Blue Team Cybersecurity Home Lab
+#Analyzing SSH LOGS
 
 A hands-on home lab project focused on defensive cybersecurity skills.
 
@@ -8,7 +8,7 @@ A hands-on home lab project focused on defensive cybersecurity skills.
 -Kali Linux
 -Windows
 -Splunk Entreprise
-
+-Splunk Universal Forwarder
 
 ## 📈 Skills Gained
-- Identifying alerts based on MITRE ATT&CK
+- 
