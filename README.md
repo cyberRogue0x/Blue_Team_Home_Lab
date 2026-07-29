@@ -8,8 +8,9 @@ A hands-on home lab project focused on defensive cybersecurity skills.
 -Kali Linux
 -Windows
 -Ubuntu Liver Server
--Splunk Enterprise
+-Wazuh Server
 -Sysmon
+-Splunk Enterprise
 
 
 
