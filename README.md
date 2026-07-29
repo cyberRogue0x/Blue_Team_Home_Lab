@@ -10,6 +10,7 @@ A hands-on home lab project focused on defensive cybersecurity skills.
 -Ubuntu Liver Server
 -Wazuh Server
 -Sysmon
+-suricata
 -Splunk Enterprise
 
 
