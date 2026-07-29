@@ -7,7 +7,10 @@ A hands-on home lab project focused on defensive cybersecurity skills.
 -VMware Workstation
 -Kali Linux
 -Windows
+-Ubuntu Liver Server
 -Splunk Enterprise
+-Sysmon
+
 
 
 ## 📈 Skills Gained
