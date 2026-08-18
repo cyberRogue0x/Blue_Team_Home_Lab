@@ -14,6 +14,7 @@ A hands-on home lab project focused on defensive cybersecurity skills.
 -Splunk Enterprise
 -Windows 10
 -Ubuntu Desktop OS
+-OSINT Tools ( Virustotal, AbuseIPDB)
 
 
 
