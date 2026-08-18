@@ -7,11 +7,13 @@ A hands-on home lab project focused on defensive cybersecurity skills.
 -VMware Workstation
 -Kali Linux
 -Windows
--Ubuntu Liver Server
+-Ubuntu Live Server
 -Wazuh Server
 -Sysmon
 -suricata
 -Splunk Enterprise
+-Windows 10
+-Ubuntu Desktop OS
 
 
 
