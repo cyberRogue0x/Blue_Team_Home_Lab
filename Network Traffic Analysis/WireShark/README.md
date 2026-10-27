@@ -28,10 +28,10 @@ See [`investigation-report.md`](investigation-report.md) for scope, method, inte
 ## Display filters used
 | Filters | What they do|
 |--|--|
-dns.flags.response == 0 
-dns.flags.rcode != 0
-tcp.flags.syn == 1 && tcp.flags.ack == 0
-tls.handshake.type == 1
+| dns.flags.response == 0 | DNS queries (requests). It displayed 60 packets in this capture. |
+| dns.flags.rcode != 0 | DNS responses with a nonzero response code, which can indicate lookup errors. No packets matched in this capture. |
+| tcp.flags.syn == 1 && tcp.flags.ack == 0 | Initial TCP SYN packets, used to find connection attempts. Follow each flow to inspect the SYN/ACK and final ACK of the handshake. |
+| tls.handshake.type == 1 | TLS Client Hello messages, which can expose handshake metadata such as the requested server name (SNI). 
 
 The TCP filter isolates initial SYN packets; inspect the corresponding SYN/ACK and final ACK to review a full three-way handshake. The TLS filter shows Client Hello messages when dissected as TLS. Filters narrow the displayed packets; they do not alter the capture.
 
