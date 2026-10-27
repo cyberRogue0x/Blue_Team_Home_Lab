@@ -35,7 +35,17 @@ See [`investigation-report.md`](investigation-report.md) for scope, method, inte
 
 The TCP filter isolates initial SYN packets; inspect the corresponding SYN/ACK and final ACK to review a full three-way handshake. The TLS filter shows Client Hello messages when dissected as TLS. Filters narrow the displayed packets; they do not alter the capture.
 
+## Skills Gained
+- Wireshark display filtering
+- DNS query and response analysis
+- TCP handshake analysis
+- TLS Client Hello and SNI inspection
+- Packet capture interpretation
+- Investigation documentation
+- Evidence handling and privacy awareness
+
 
 ## Privacy and handling
 
 Redact internal IP addresses, usernames, hostnames, or browsing history if they are private. This repository intentionally excludes the raw PCAP; only share a capture after reviewing it for sensitive information and obtaining the appropriate authorization.
+
