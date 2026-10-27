@@ -26,7 +26,8 @@ A beginner-friendly network traffic analysis project documenting a bounded packe
 See [`investigation-report.md`](investigation-report.md) for scope, method, interpretation, and limitations and [`findings/observations.md`](findings/observations.md) for protocol notes and filters.
 
 ## Display filters used
-
+| Filters | What they do|
+|--|--|
 dns.flags.response == 0 
 dns.flags.rcode != 0
 tcp.flags.syn == 1 && tcp.flags.ack == 0
