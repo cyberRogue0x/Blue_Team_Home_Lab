@@ -5,6 +5,7 @@ A hands-on home lab project focused on defensive cybersecurity skills.
 
 ## 🧰 Tools Used
 -Windows Event Viewer
+-Wireshark
 -VMware Workstation
 -Kali Linux
 -Windows
