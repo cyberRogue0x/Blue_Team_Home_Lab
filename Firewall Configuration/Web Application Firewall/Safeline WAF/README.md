@@ -90,6 +90,17 @@ Offline mode is selected in this screenshot. It is an availability control, not 
 
 The browser shows **Website is Offline, Please Visit Later**, confirming that the site was unavailable while Offline mode was active. Return the application to Defense mode after this demonstration.
 
+## Skills Gained
+-Web application firewall (WAF) fundamentals
+-SQL injection testing
+-Reflected XSS testing
+-SafeLine Defense and Audit modes
+-Security log analysis
+-Dashboard metric interpretation
+-IP address analysis
+-Virtual lab setup
+-Evidence-based technical reporting
+
 ## Conclusion
 
 The screenshots document the SafeLine dashboard, a DVWA application, Strict Mode settings for SQL injection and XSS, and test outcomes. The Defense-mode result pages and SafeLine logs support that the shown SQL injection and reflected XSS requests were blocked. The logs also contain audited events, which should be reported separately from blocks. Offline mode blocked all visitors as expected in its separate demonstration.
