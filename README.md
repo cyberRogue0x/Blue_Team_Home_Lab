@@ -8,6 +8,7 @@ A hands-on home lab project focused on defensive cybersecurity skills.
 -Wireshark
 -VMware Workstation
 -Kali Linux
+-Safeline WAF
 -Windows
 -Ubuntu Live Server
 -Wazuh Server
